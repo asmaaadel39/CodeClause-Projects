@@ -1,6 +1,6 @@
 # CodeClause-Projects
 Internship Projects.
-**Task 1:** 
+**Project 1:** 
 
 Movie-Analysis Project using Python.
 
